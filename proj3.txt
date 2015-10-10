@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Black Swan</title>
+<style>
+body{background-color:black}
+p{color:yellow}
+</style>
+</head>
+<body>
+<ul>
+<li><h2 style=" color:orange">Black Swan:</h2></li>
+<li><p>Actors :Natalie Portman Mila Kunis</p></li>
+<li><p> Description :Nina (Natalie Portman) is a ballerina whose passion for the dance rules every facet of her life. When the company's artistic director decides to replace his prima ballerina for their opening production of "Swan Lake," Nina is his first choice. She has competition in newcomer Lily (Mila Kunis) however. While Nina is perfect for the role of the White Swan, Lily personifies the Black Swan. As rivalry between the two dancers transforms into a twisted friendship, Nina's dark side begins to emerge.</P>
+</li>
+
+Vincent Cassel</li>
+</ul>
+</body>
+</html>
